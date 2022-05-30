@@ -1,0 +1,5 @@
+numero di thread nel pool= 4;
+Memoria massima = 1000000;
+File massimi = 10;
+Socket = storage_sock;
+file di log = log_file;
